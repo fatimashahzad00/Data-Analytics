@@ -1,0 +1,43 @@
+How's it going? My
+name is Adrian, and I'm a customer engineer at Google. A customer engineer at
+Google is the bridge between the technical and
+business components or aspects of corporate America. We help customers leverage our technology to meet
+their business needs. One of the most exciting projects and even
+interesting that I worked on was creating a
+unified patient record. This project was for a lab
+diagnostics company that was really looking into creating
+a 360 view of a patient. Our project focused
+on consolidating information across
+different systems. You can imagine taking your lab diagnostics data for your most recent
+routine blood work, or even something that's a
+little bit more specific. Diabetes or a glucagon test, taking that and all that
+information that you've provided in terms
+of biological data, getting that centralized
+and standardized on one environment so that if it is your physician looking
+at the data or your radiologists
+or nutritionist, they have a complete view
+of all of your data, and they can not
+only just access it, but they can visualize
+it in real time. One of the key components
+of this project was the use of virtual reality headsets as the main
+visualization component. For me, what this meant was, I got the ability to
+do some game design, create some human skins
+in terms of the body, and use different colors and
+programming functionality to indicate for example
+the system is looking healthy or if it's looking like it needs concern
+or intervention. We can see over time how the diagnostic test results have changed and the impact that
+this has on our patients. At the end of the
+day, what we had was a project that unified
+all of the data for the patient and gave the key medical professionals
+a way to visualize it. The best piece of
+advice that I have for you is to remain
+confident in yourself. While you might be new to this new role or
+this new company, you're coming with skills that are repeatable, that
+are transferable. Whether it'd be the way that you approach and problem solve, whether it'd be the
+rapport you're able to build with your stakeholders and the soft skills
+and ensuring that you can build those
+relationships or even when it comes to
+communication and writing a succinct and concise email. They're going to be ways where you're going to take
+what you've done before and apply them
+in your new role. You might have to think
+outside of the box, but you'll get there.

@@ -1,0 +1,49 @@
+Hi, I'm Cassie, and I serve as Chief Decision Scientist
+at Google Cloud. The very first time that
+I fell in love with data, I was eight, maybe
+nine years old. I discovered Microsoft Excel
+and I fell in love with it, which is an unusual thing. Most kids are out
+there climbing trees and here I am
+playing with Excel. I had this gemstone collection. I would love putting the
+data into a spreadsheet. This collection would grow
+not for the gemstones, but definitely to be able to put it into
+the spreadsheets. I get excited,
+"Oh, a purple one. I don't have an amethyst yet. Now I get to put purple into the color columns." I
+was a weird kid. But to me, data was the most
+beautiful thing on Earth. As my career progressed, I began to think a lot
+about the why of data, because I took it for
+granted that data's pretty. But there has to be something important to motivate action. The important bit
+was decision-making. If a data point
+falls in the forest and doesn't lead to
+any kind of action, in my opinion, there's
+no point to it. It becomes valuable when it's related to decisions
+or real world actions. That's why I got really interested in the
+Decision Sciences and studied those alongside what we today call Data Science, even though back then
+that was statistics, and big data eventually showed
+up as one of them as well. I studied all of those
+things together. I remember back when
+I was in college, some career counselors asked me, "What major is this? You can't even get
+a job with this." Well, today, combining
+the Decision Sciences, thinking carefully about the
+why plus the data sciences, the information piece, you get to use information
+to drive better action. That is what I'm
+passionate about. A lot of people
+don't realize that without any courses
+in data analytics, they are already data analysts. We're all already data analysts. You're watching this course on your computer or
+your smartphone, and the information that is being recorded
+now as I speak, by the video camera, is stored in a bunch
+of matrices as a bunch of numbers
+that don't make any sense when you
+look at that raw data. When you open it with
+the correct software, in this case, your browser, you are extracting meaning, sense from that raw data and
+you're learning something. Right now in this very second, you are doing data analysis. There are so many different
+ways to work with data. There are so many different
+ways to make it useful. Some of them are going to fit your personality
+better than others. Just guide yourself
+towards what's most fun because
+there's also a lot of different people
+in these careers, and it's a team sport overall. They're going to
+cover the parts that you are less inclined towards. Lean in to the most
+fun that you can have pursuing your
+individual data personality. Just make it useful and all
+the good things will follow.

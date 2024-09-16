@@ -1,0 +1,69 @@
+Previously, you were introduced
+to the PACE framework. As a reminder, PACE
+has four stages, plan, analyze,
+construct, and execute. We also examined
+the rationale and key elements involved in
+effective communication. Now, let's investigate
+how they can be integrated together
+within data projects. At first glance, the
+PACE framework easily enables a wide view of an
+entire project's workflow, that is, each stage
+from planning to executing is logically
+sequenced with the beginning, middle, and end of
+a data project. As you may recall though, PACE is incredibly
+flexible and it doesn't need to be employed
+in a linear progression. Often, iteration makes
+sense in projects. Let's unpack that
+with an example. For reference, we can compare it to the construction
+of a building. First, a blueprint is created. This is where the
+planning happens. Next, we lay the foundation. We can do this once
+we've analyzed the lot space and considered
+other variables like cost. Then we add the frame. After that, the roof
+can be installed. By the time the structure
+is ready for moving, the builder will have progressed through the entire workflow, planning, analyzing, constructing, and executing
+the client's vision. In practice, the PACE workflow is meant to serve as
+a navigational tool. We created it with the goal of helping you understand the data professional's workflow and as an aid you can consult
+in your future role. Now, let's return
+to the example. With the roof completed, that makes it possible to begin the inside construction
+like installing drywall, electrical components,
+and plumbing systems. Each of these jobs also has its own PACE workflow
+demonstrated on its own planning document within the larger blueprint, each requiring planning, analyzing, constructing,
+and executing. Just like the building example
+we've been discussing, as data projects move
+into the construct and execute stages
+on the global level, you may need to return
+to the earlier stages to incorporate additional data or feedback from other
+stakeholders. Even while the global project is transitioning into a
+new phase of PACE, there can still be
+upcoming tasks that are just beginning
+their PACE cycles. Regardless of where you might
+be in the PACE workflow, communication is what drives the framework to the
+realization of the project. At each stage within
+the framework, there will always be a need for communication to
+improve the workflow. This could be asking
+questions about your data, gathering
+additional sources, updating stakeholders
+on progress, or presenting findings
+and receiving feedback. One of the most
+important considerations behind the development
+of PACE was providing a flexible
+structure that allows you to adjust to changes
+within a project. Let's return to our
+building example. Let's say that during
+the installation of the electrical system, the property owner has communicated that
+they wish to have an additional charging port for electrical vehicles
+added to the plan. To facilitate the change, you would revisit the
+PACE framework to plan, analyze, construct, and
+execute this new request. Just like in this example, requests from other stakeholders
+can come in at anytime. Regardless of the timing of an additional request or task, data professionals need
+to be available and accessible throughout the
+entire project cycle. Sometimes you may
+need to speak at a meeting or participate
+in a progress update. Additionally, you may update your progress within
+a tracking system. Email conversations and chat
+discussions will keep others involved and up-to-date with where you are in your workflow. I'm excited for you to develop
+some hands-on experience, practicing different
+communication strategies through each stage of PACE. You'll have opportunities to do this later in the program. For now, I want you to remember that a good
+data professional is a proactive communicator who responds to questions
+in a timely fashion. Keeping other
+stakeholders up-to-date with clear explanations can make you the most effective data professional that you can be.

@@ -1,0 +1,36 @@
+[MUSIC] Hi, I'm Daisy,
+data science manager at Google. I lead a team of data scientists. We focus on delivery, insight and machine learning solution to improve
+financial analysts their productivities. In the past three years I
+conduct about 200 interviews. I typically hire mid level
+data scientists with some relevant work experience for
+about at least five years. But in the past I also had experience to
+hire entry level data scientists as well. I look for candidates with the experience
+that they leverage advanced analytics solutions or machine learning
+solutions to drive business impact. Having those evidence on the resume or demonstrate those experience throughout
+the interview is quite critical. And I don't really emphasize on certain
+experience from specific industry. And the reason is I see a good data
+scientist can actually leverage their knowledge and then adopt into
+a different business environment. The successful candidates
+are those they are able to relate their past projects or
+their schoolwork to any type of problems. Our interview questions
+normally cover two parts. One is focused on understand
+the candidates, their technical knowledge. In that aspect we usually will want
+to understand their coding skill, particularly in Ro, Python and SQL. In addition, we also want to understand
+their knowledge in machine learning or statistics as well. And the second part would be
+related more on the soft skill. In these aspects we care about whether
+the data scientists can work with the business stakeholders,
+understand their problems. And then also be able to
+recommend the analysis and the insights to kind of help them
+to solve their business problems. Sometimes I bump into the candidate that
+they get stuck on the first questions. And then they will keep thinking about
+that question throughout the entire interview. So that's also something I would
+definitely encourage the candidates. Give your best but also know when to stop. If you are interested in
+becoming a data scientist but you don't have previous work
+experience in this field I would recommend you to start thinking
+about build up your portfolio. That can be through doing like capstone
+projects from the online courses or certificate program and
+also do some pro bono work as well. And then there is also many Keiko type of
+competitions that will help you understand what close to the real world
+problem will look like. So definitely highly recommend
+to build up this portfolio and start to get exposure to the messy data
+which is close to the real world problem.
