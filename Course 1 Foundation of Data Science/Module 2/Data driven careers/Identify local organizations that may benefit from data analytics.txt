@@ -1,8 +1,0 @@
-Identify local organizations that may benefit from data analytics
-As charities and non-profit organizations typically have limited resources, they often rely on volunteers for additional assistance. An earlier reading explored the idea of matching data professionals with good causes, such as Christopher's Promise. You likely have a local charity, non-profit organization, or humanitarian effort near you that could benefit from the skill of a data analytics professional.
-
-For this discussion prompt, consider the following:
-
-What charity, humanitarian effort, or non-profit organization would you be interested in volunteering for in your local area? What is their mission and what about this group or effort inspires you the most? 
-
-What programs or projects has this organization been involved in? In what ways do you think this effort could benefit from the services of a data analytics professional?
